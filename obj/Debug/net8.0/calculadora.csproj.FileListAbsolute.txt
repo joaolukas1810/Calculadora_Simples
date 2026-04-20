@@ -1,0 +1,14 @@
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/bin/Debug/net8.0/calculadora
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/bin/Debug/net8.0/calculadora.deps.json
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/bin/Debug/net8.0/calculadora.runtimeconfig.json
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/bin/Debug/net8.0/calculadora.dll
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/bin/Debug/net8.0/calculadora.pdb
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfoInputs.cache
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfo.cs
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.csproj.CoreCompileInputs.cache
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.dll
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/refint/calculadora.dll
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.pdb
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/calculadora.genruntimeconfig.cache
+/home/jlk/Área de trabalho/Codes/csharp/calculadora/obj/Debug/net8.0/ref/calculadora.dll
