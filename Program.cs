@@ -1,10 +1,10 @@
-﻿namespace calculadora;
+﻿//Esse é um teste de uma calculadora simples
+namespace calculadora;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Esse é um teste de uma calculadora simples");
         Console.WriteLine("Qual operação gostaria de realizar?\n1 = ADIÇÃO; 2 = SUBTRAÇÃO; 3 = MULTIPLICAÇÃO; 4 = DIVISÃO");
 
         int operacao = Convert.ToInt32(Console.ReadLine());
